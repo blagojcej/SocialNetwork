@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "onFocusChange",
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "csharpextensions.privateMemberPrefix": "_",
+    "csharpextensions.useThisForCtorAssignments": false
+}
