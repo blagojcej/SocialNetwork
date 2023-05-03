@@ -8,5 +8,7 @@
         "**/obj": true
     },
     "csharpextensions.privateMemberPrefix": "_",
-    "csharpextensions.useThisForCtorAssignments": false
+    "csharpextensions.useThisForCtorAssignments": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always"
 }
